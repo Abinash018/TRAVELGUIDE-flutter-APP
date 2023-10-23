@@ -30,12 +30,19 @@ The weather information on each city page was made using [**OpenWeatherAPI**](ht
 The photos on users' profile screens were taken using [**UI Avatars API**](https://ui-avatars.com/). A profile photo is created using the initials of the users' names.
 
 ## Screenshots
-![mainpage](https://drive.google.com/file/d/1rjDim0diafUhMuHdpgeXy3sNT990_R2x/view?usp=share_link)
-![mainpage2](https://drive.google.com/file/d/1zN37vuRkBCU_Uxjo31SwEfQch53FC6pN/view?usp=share_link)
+![136622365-86a201e1-1f11-410f-a2f4-068fbb28729a](https://github.com/Abinash018/TRAVELGUIDE-flutter-APP/assets/113250598/4bfc49b9-7985-4697-b9f4-7eeabea94df0)
+![136622361-71680372-99c7-4814-a04f-52f0547fe4af](https://github.com/Abinash018/TRAVELGUIDE-flutter-APP/assets/113250598/20c2a64e-0468-4ee1-9350-738c6a759af1)
 
-![sehirsayfasi1](https://drive.google.com/drive/u/0/folders/1wF3CLcH5nmJF-_cbiqg2jfXuE3ynzDgA)
-![sehirsayfasi2](https://drive.google.com/drive/u/0/folders/1wF3CLcH5nmJF-_cbiqg2jfXuE3ynzDgA)
+![136622356-552b1f89-4274-4fd1-8e23-a4255c21f798](https://github.com/Abinash018/TRAVELGUIDE-flutter-APP/assets/113250598/e1e4157d-afe9-4723-a81c-f65274837a62)
 
-![sehirsayfasi3](https://drive.google.com/file/d/1C4zzwpoF_NlSyX15QiQQttGtR2GFwKqe/view?usp=share_link)
-![weather](https://drive.google.com/file/d/1idI6aSsIwGzlEZAuE02ZB-7sYzJ5OPO-/view?usp=share_link)
-![commentpage](https://drive.google.com/file/d/10Gp8vQ8C6ed0E3hVvisc3_-291pAJ6pL/view?usp=share_link)
+
+![136622350-3b692456-030f-46a9-bc5c-378cb8e47105](https://github.com/Abinash018/TRAVELGUIDE-flutter-APP/assets/113250598/e3f00cce-b3f9-4db8-8cae-4609b817f923)
+
+
+![136622342-9af2f47f-1246-4b31-bfa2-532aa3822dfd](https://github.com/Abinash018/TRAVELGUIDE-flutter-APP/assets/113250598/2850b3fe-bc20-4b91-b804-6bf0821fd976)
+
+![136622507-83c2daa8-f54a-416f-952e-20b2642637cb](https://github.com/Abinash018/TRAVELGUIDE-flutter-APP/assets/113250598/cf75e09e-3a00-4ec5-b6a9-5f86b1ac59fe)
+![136622330-38513405-fe49-4829-ad25-65a768d4abed](https://github.com/Abinash018/TRAVELGUIDE-flutter-APP/assets/113250598/eca050d0-50a3-4e5e-9a4b-581458c68589)
+
+
+
