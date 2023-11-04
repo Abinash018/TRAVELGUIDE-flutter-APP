@@ -1,5 +1,5 @@
 # Where to Go?
-
+     
 It is a travel guide application I developed using Flutter technology. You can get information about cities, add cities to your favorites, plan your trips and choose your next travel destination.  
 
 ## Contents Hosted by the Application
